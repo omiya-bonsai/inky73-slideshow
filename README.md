@@ -1,6 +1,7 @@
 # Inky 7.3" (Spectra6) 高機能スライドショー
 
 Pimoroni製の6色e-Paperディスプレイ「Inky Impression 7.3"」に特化した、高機能なフォトフレーム・スライドショープログラムです。
+
 ![IMG_7546](https://github.com/user-attachments/assets/2408b768-15ff-49ed-bb0d-4ee83e1fc9f1)
 
 
